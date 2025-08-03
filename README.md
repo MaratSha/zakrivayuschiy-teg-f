@@ -4,6 +4,8 @@
 
 https://github.com/MaratSha/zakrivayuschiy-teg-f
 
+https://maratsha.github.io/zakrivayuschiy-teg-f/index.html
+
 ## Используемые технологии
 - HTML
 - CSS
