@@ -175,6 +175,9 @@
 .slozhno-sosredotochitsya {
   filter: contrast(150%);
 }
+.zakrivayuschiy-teg {
+  filter: invert(100%);
+}
 
 .card__image-watermark {
   font-family: var(--accent-font, "PressStart2P"), "Papyrus", fantasy;
