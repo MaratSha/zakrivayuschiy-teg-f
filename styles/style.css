@@ -160,9 +160,6 @@
 .ono-tebe-nado {
   filter: sepia(60%);
 }
-.vivek-unsplash {
-  filter: hue-rotate(0.5turn);
-}
 .posmotri-v-okno {
   filter: hue-rotate(-200deg) brightness(80%);
 }
@@ -174,6 +171,12 @@
 }
 .slozhno-sosredotochitsya {
   filter: contrast(150%);
+}
+.auto {
+  filter: hue-rotate(0.5turn);
+}
+.zakrivayuschiy-teg {
+  filter: invert(100%);
 }
 
 .card__image-watermark {

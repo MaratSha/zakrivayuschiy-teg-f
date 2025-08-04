@@ -3,7 +3,9 @@
 Одностраничный сайт, оформленный в виде карточек с описаниями этапов прохождения блока курса «Вёрстка».
 
 
-https://maratsha.github.io/zakrivayuschiy-teg-f/index.html
+Проект: https://maratsha.github.io/zakrivayuschiy-teg-f/
+
+ГитХаб https://github.com/MaratSha/zakrivayuschiy-teg-f
 
 ## Используемые технологии
 - HTML
