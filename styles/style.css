@@ -41,7 +41,7 @@
   align-items: center;
   margin-block: 100px;
   padding-block-start: clamp(7.5rem, 6.3462rem + 4.9231cqi, 8rem);
-  padding-block-end: 20px;
+  padding-block-end: 105px;
   border: 2px solid var(--accent-color, #000);
 }
 
@@ -371,6 +371,10 @@
 @media (width <= 375px) {
   .header__logo {
     font-size: min(calc(100vi / 7), 49px);
+  }
+
+  .header {
+    padding-block-end: 96px;
   }
 
   .card__image-watermark {
