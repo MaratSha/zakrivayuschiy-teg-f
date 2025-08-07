@@ -323,8 +323,7 @@
   background-color: var(--bg-color, #fff);
   border: 2px solid var(--accent-color, #000);
   padding: 30px;
-  max-width: 356px;
-  overflow: hidden;
+  max-width: 357px;
 }
 
 .default-mofal[open] {
@@ -365,6 +364,7 @@
   font-size: 14px;
   text-transform: uppercase;
   line-height: 1.5;
+  word-break: break-word;
 }
 
 @media (width <= 375px) {
@@ -380,6 +380,9 @@
     inset-block-start: 25px;
     inset-inline-end: 13px;
   }
+.card__paragraph{
+  line-height: 20px;
+}
 
   .save-button {
     flex-direction: column;
